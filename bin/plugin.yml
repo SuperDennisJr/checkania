@@ -1,0 +1,19 @@
+name: Scoreboards
+version: 1.0
+main: org.checkania.scoreboard.Scoreboards
+description: Step counter.
+
+permissions:
+  scoreboard.admin:
+    default: false
+    description: admin prefix.
+  scoreboard.mod:
+    default: false
+    description: mod prefix.
+  scoreboard.builder:
+    default: false
+    description: builder prefix.
+  scoreboard.default:
+    default: false
+    description: default prefix.
+
